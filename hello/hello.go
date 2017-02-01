@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Printf("\nHello from big (but old) Bob Anderson\n\n")
+	fmt.Printf("\nHello from tinier (but old) Bob Anderson\n\n")
 	fmt.Println(garbage.Judy())
 }
